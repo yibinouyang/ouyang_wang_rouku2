@@ -1,4 +1,4 @@
-# Yuchen_Xia_HW4_AV_App
+# Ouyang_Wang_ROUKU
 ## Project Title
 
 Rokuflashback app-- is a mobile-first audio / video app  that user can login filter by medium / genre and select a movie, tv
